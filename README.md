@@ -1,13 +1,13 @@
 ## 📊 Dashboard Preview
 
 ### Main Dashboard
-![Dashboard](Dashboard.png)
+![Dashboard](Dashbaord.png)
 
 ### Air Insights
-![Air Insights](air insights.png)
+![Air Insights](airinsights.png)
 
 ### Humidity Insights
-![Humidity](humid insights.png)
+![Humidity](humidinsights.png)
 
 ### Forecasting / Trend Analysis
 ![Forecasting](forecasting.png)
